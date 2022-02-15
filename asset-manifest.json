@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/garbman92/calc.git/static/css/main.1fc03948.chunk.css",
+    "main.js": "/garbman92/calc.git/static/js/main.ab1d2c51.chunk.js",
+    "main.js.map": "/garbman92/calc.git/static/js/main.ab1d2c51.chunk.js.map",
+    "runtime-main.js": "/garbman92/calc.git/static/js/runtime-main.2fbf53ce.js",
+    "runtime-main.js.map": "/garbman92/calc.git/static/js/runtime-main.2fbf53ce.js.map",
+    "static/js/2.fdcf9627.chunk.js": "/garbman92/calc.git/static/js/2.fdcf9627.chunk.js",
+    "static/js/2.fdcf9627.chunk.js.map": "/garbman92/calc.git/static/js/2.fdcf9627.chunk.js.map",
+    "index.html": "/garbman92/calc.git/index.html",
+    "static/css/main.1fc03948.chunk.css.map": "/garbman92/calc.git/static/css/main.1fc03948.chunk.css.map",
+    "static/js/2.fdcf9627.chunk.js.LICENSE.txt": "/garbman92/calc.git/static/js/2.fdcf9627.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fbf53ce.js",
+    "static/js/2.fdcf9627.chunk.js",
+    "static/css/main.1fc03948.chunk.css",
+    "static/js/main.ab1d2c51.chunk.js"
+  ]
+}
